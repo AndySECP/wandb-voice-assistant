@@ -48,7 +48,7 @@ export WANDB_API_KEY="your-wandb-key"
 
 4. Start the FastAPI server:
 ```bash
-poetry run uvicorn src.api.app:app --host 127.0.0.1 --port 8000 --reload
+poetry run uvicorn src.api.app:app --reload
 ```
 
 ### Frontend Setup
