@@ -4,8 +4,6 @@ An interactive voice agent that enables real-time conversations about machine le
 
 ## System Architecture
 
-![System Architecture Diagram]
-
 The system consists of three main components:
 - Frontend React application with WebRTC capabilities
 - FastAPI backend service for data management and tool execution
